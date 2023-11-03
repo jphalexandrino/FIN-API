@@ -1,0 +1,16 @@
+{
+  "name": "fin-api",
+  "version": "1.0.0",
+  "description": "A FIN-API é uma API financeira que fornece funcionalidades para gerenciar transações, contas, saldos e muito mais. É uma ferramenta poderosa para aplicativos financeiros e sistemas de gerenciamento.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
