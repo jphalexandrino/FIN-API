@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express.js": "^1.0.0",
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
