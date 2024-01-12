@@ -1,24 +1,26 @@
-# FIN-API - API Financeira
+# FIN-API - Financial API
 
-A FIN-API é uma API financeira que fornece funcionalidades para gerenciar transações, contas, saldos e muito mais. É uma ferramenta poderosa para aplicativos financeiros e sistemas de gerenciamento.
+FIN-API is a financial API that provides features for managing transactions, accounts, balances, and more. It is a powerful tool for financial applications and management systems.
 
-## Funcionalidades Principais
+## Key Features
 
-- Registro de transações
-- Consulta de saldo
-- Histórico de transações
-- Autenticação segura
-- Gerenciamento de contas
+- Transaction logging
+- Balance inquiry
+- Transaction history
+- Secure authentication
+- Account management
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - Node.js
 - Express.js
-- Banco de Dados
-- Autenticação JWT
+- Database
+- JWT Authentication
 
-## Como Usar
+## How to Use
 
-1. Clone este repositório: `git clone https://github.com/sondercs/fin-api.git`
-2. Configure o ambiente e as dependências
-3. Execute a API localmente
+1. Clone this repository: `git clone https://github.com/sondercs/fin-api.git`
+2. Set up the environment and dependencies
+3. Run the API locally
+
+Feel free to let me know if there are any specific modifications or additions you'd like to make to the content or if you have further instructions.
